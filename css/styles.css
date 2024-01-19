@@ -380,7 +380,7 @@ a {
 
 .contact-conteiner {
     display: flex;
-    gap: 32px;
+    gap: 16px;
 }
 
 .contacts-title {
